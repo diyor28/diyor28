@@ -9,8 +9,6 @@
 
 Hi, I'm [Diyor Khaydarov](https://diyor28.medium.com/), a passionate self-taught Full Stack developer from Uzbekistan.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 - 📫 How to reach me: [@diyor28](https://t.me/diyor28);
 
 **Languages and Tools:**  
