@@ -8,7 +8,7 @@
 
 Hi, I'm [Diyor Khaydarov](https://diyor28.medium.com/), a passionate self-taught Full Stack developer from Uzbekistan.
 
-- 📫 How to reach me: [@diyor28](https://t.me/diyor28);
+📫 How to reach me: [@diyor28](https://t.me/diyor28);
 
 **Languages and Tools:**  
 
