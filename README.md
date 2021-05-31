@@ -5,7 +5,6 @@
 <a href="https://t.me/diyor28">
   <img align="left" alt="Diyor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/diyor28/diyor28/807f2b4b8396f5c50d27363689932d73b9b27634/icons/telegram.svg" />
 </a>
-<br />
 
 Hi, I'm [Diyor Khaydarov](https://diyor28.medium.com/), a passionate self-taught Full Stack developer from Uzbekistan.
 
