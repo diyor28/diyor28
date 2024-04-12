@@ -6,7 +6,7 @@
   <img align="left" alt="Diyor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/diyor28/diyor28/807f2b4b8396f5c50d27363689932d73b9b27634/icons/telegram.svg" />
 </a>
 
-I'm a Full Stack developer and founder at [Apollo](https://apollos.studio/). Building something with unclear requirements or in need of someone with multivariate skills? Reach me at [@diyor28](https://t.me/diyor28);
+I'm the founder and CEO at [IOTA](https://iota.uz). Building something with unclear requirements or in need of a team with multivariate skills? Reach us at reception@iota.uz
 
 * Experienced in building deep learning pipelines, training neural networks with Tensorflow, Keras and Python's suit of datascience libraries like scipy, numpy, pandas.
 * Can build UI's in Vue/React
