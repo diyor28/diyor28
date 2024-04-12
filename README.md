@@ -6,11 +6,15 @@
   <img align="left" alt="Diyor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/diyor28/diyor28/807f2b4b8396f5c50d27363689932d73b9b27634/icons/telegram.svg" />
 </a>
 
-I'm the founder and CEO at [IOTA](https://iota.uz). Building something with unclear requirements or in need of a team with multivariate skills? Reach us at reception@iota.uz
+As the founder and CEO of [IOTA](https://iota.uz), I understand how challenging it can be to navigate projects with ambiguous requirements or to find a team equipped with a diverse set of skills. If this resonates with you, I encourage you to connect with us at reception@iota.uz. We're here to help streamline your process and ensure success.
 
-* Experienced in building deep learning pipelines, training neural networks with Tensorflow, Keras and Python's suit of datascience libraries like scipy, numpy, pandas.
-* Can build UI's in Vue/React
-* Backend applications in Python/NodeJs/Go
+At IOTA, we specialize in:
+
+- Designing and building comprehensive deep learning solutions, including full pipelines and training neural networks using TensorFlow, Keras, and a suite of Python data science libraries such as SciPy, NumPy, and pandas.
+- Developing intuitive user interfaces using Vue and React.
+- Crafting robust backend applications with Python, Node.js, and Go.
+
+Let us help bring your vision to life with our expertise. Reach out today to discuss how we can support your project's specific needs.
 
 **Languages and Tools:**  
 
