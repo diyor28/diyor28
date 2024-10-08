@@ -6,7 +6,7 @@
   <img align="left" alt="Diyor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/diyor28/diyor28/807f2b4b8396f5c50d27363689932d73b9b27634/icons/telegram.svg" />
 </a>
 
-I'm CEO at [IOTA](https://iota.uz), We design and code great shit. Come book a [meeting](https://calendly.com/diyor_iota) with us.
+We design and code great shit. Come book a [meeting](https://calendly.com/diyor_iota) with us.
 
 At IOTA we specialize in:
 
