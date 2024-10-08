@@ -10,12 +10,16 @@ I'm CEO at [IOTA](https://iota.uz), We design and code great shit. Come book a [
 
 At IOTA, we specialize in:
 
-- Designing and building comprehensive deep learning solutions, including full pipelines and training neural networks using TensorFlow, Keras, and a suite of Python data science libraries such as SciPy, NumPy, and pandas.
-- Developing intuitive user interfaces using Vue and React.
-- Crafting robust backend applications with Python, Node.js, and Go.
+- Making sure we don't write shit code
+- Making sure even the shit code we deliver works
+- Making it look nice & sexy
 
-Let us help bring your vision to life with our expertise. Reach out today to discuss how we can support your project's specific needs.
+## For nerds
+- Developing user interfaces with Vue, React and Solid.
+- Backend applications with Python, Node.js and Go.
+- Training neural networks with TensorFlow, Keras, and a suite of Python data science libraries such as SciPy, NumPy, and pandas.
 
+  
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
