@@ -15,11 +15,7 @@ At IOTA, we specialize in:
 - Making it look nice & sexy
 
 ## For nerds
-- Developing user interfaces with Vue, React and Solid.
-- Backend applications with Python, Node.js and Go.
-- Training neural networks with TensorFlow, Keras, and a suite of Python data science libraries such as SciPy, NumPy, and pandas.
 
-  
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
