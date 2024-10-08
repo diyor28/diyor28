@@ -14,6 +14,8 @@ At IOTA we specialize in:
 - Making sure the shit code we write works
 - Making it look nice & sexy
 
+Contact me at dkh@iota.uz or sales directly at sales@iota.uz
+
 ## For nerds
 
 **Languages and Tools:**
