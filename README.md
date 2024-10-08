@@ -6,7 +6,7 @@
   <img align="left" alt="Diyor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/diyor28/diyor28/807f2b4b8396f5c50d27363689932d73b9b27634/icons/telegram.svg" />
 </a>
 
-As the founder and CEO of [IOTA](https://iota.uz), I understand how challenging it can be to navigate projects with ambiguous requirements or to find a team equipped with a diverse set of skills. If this resonates with you, I encourage you to connect with us at sales@iota.uz. We're here to help streamline your process and ensure success.
+I'm CEO at [IOTA](https://iota.uz), We design and code great shit. Come book a [meeting](https://calendly.com/diyor_iota) with us.
 
 At IOTA, we specialize in:
 
