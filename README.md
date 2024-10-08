@@ -14,7 +14,10 @@ At [IOTA](https://iota.uz/) we specialize in:
 - Making sure the shit code we write works
 - Making it look nice & sexy
 
+<img src="https://github.com/diyor28/diyor28/releases/download/1.0.0/shia-labeouf-do-it.gif" width="300" height="300" />
+
 Contact me at dkh@iota.uz or sales directly at sales@iota.uz
+
 
 ## For nerds
 
