@@ -8,7 +8,7 @@
 
 I'm CEO at [IOTA](https://iota.uz), We design and code great shit. Come book a [meeting](https://calendly.com/diyor_iota) with us.
 
-At IOTA, we specialize in:
+At IOTA we specialize in:
 
 - Making sure we don't write shit code
 - Making sure the shit code we write works
