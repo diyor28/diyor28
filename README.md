@@ -11,7 +11,7 @@ I'm CEO at [IOTA](https://iota.uz), We design and code great shit. Come book a [
 At IOTA, we specialize in:
 
 - Making sure we don't write shit code
-- Making sure even the shit code we deliver works
+- Making sure the shit code we write works
 - Making it look nice & sexy
 
 ## For nerds
